@@ -1,4 +1,4 @@
-# Bot Building Site - Website
+# Bot Building Site - Websit
 
 This is the official website for [Bot Building Site](https://discord.gg/2YdFEtKBM5).
 
