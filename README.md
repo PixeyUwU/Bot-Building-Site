@@ -15,7 +15,7 @@ For people that dont know how to code bots it started only with BBS-Captain#8920
 #### Is your service actually free? Is there any catch?
 Our service is free, yes. However, there is a catch.
 
-WAIT! Before you click off immediately, hear me out. The catch is a small catch. Our basic plan lets you have __two__ free bots. However, if you upgrade to some of our premium plans, you can gain access to more bots, custom emojis and roles, and more. But our basic plan is completely free and will remain free. With the basic plan, you will also always get user support from our developers.
+WAIT! Before you click off immediately, hear me out. The catch is a small catch. Our basic plan lets you have __one__ free bot. However, if you upgrade to some of our premium plans, you can gain access to more bots, custom emojis and roles, and more. But our basic plan is completely free and will remain free. With the basic plan, you will also always get user support from our developers.
 
 
 
